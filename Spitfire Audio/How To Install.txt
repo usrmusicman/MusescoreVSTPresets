@@ -1,0 +1,1 @@
+Copy the folder of the library you want to use to the root folder of your Spitfire libraries.
